@@ -1,0 +1,14 @@
+{
+  "name": "goof",
+  "version": "1.0.1",
+  "description": "A vulnerable application",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "18.0.0"
+  },
+  "dependencies": {
+    "express": "4.13.0"
+  }
+}
