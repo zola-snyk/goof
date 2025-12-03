@@ -1,0 +1,2 @@
+File with Unicode-encoded characters
+
