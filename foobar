@@ -1,0 +1,11 @@
+Dockerfile
+Gemfile
+Gemfile.lock
+app.js
+foobar
+go.mod
+go.sum
+node_modules
+package-lock.json
+package.json
+requirements.txt
